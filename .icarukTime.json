@@ -1,0 +1,17 @@
+{
+    "idleHeartbeats": 495,
+    "navigatingHeartbeats": 157,
+    "totalCodingHeartbeats": 1537,
+    "languageHeartbeats": {
+        "jsonc": 160,
+        "json": 122,
+        "typescript": 1255
+    },
+    "fileHeartbeats": {
+        "/Users/neto/Library/Application Support/Code/User/settings.json": 160,
+        "nest-cli.json": 122,
+        "src/app.controller.ts": 1153,
+        "src/user/user.repository.ts": 95,
+        "src/configs/typeorm.config.ts": 7
+    }
+}
